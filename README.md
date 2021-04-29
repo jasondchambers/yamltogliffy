@@ -2,7 +2,7 @@
 Corporate directories don't always necessarily map directly to teams. Teams, 
 especially cross-functional teams typically may be staffed with people who report to 
 different managers. 
-ss
+
 This makes it a bit of a pain to model teams.
 
 This tool takes an organization model of team types, teams, leaders, people expressed 
