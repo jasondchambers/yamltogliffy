@@ -1,0 +1,45 @@
+---
+teamtypes:
+  Stream Aligned:
+    leaders:
+      - Bill Smith,sdjsjd
+      - Bob Smith,ljkdflk
+    teamgroups:
+      Forensics:
+        leaders:
+          - Sarah Smith,hjfd
+          - Florence Smith,hjod
+        teams:
+          Team1:
+            - Jenny Smith,dfjkl
+            - Shakira Smith,jgrj
+          Team2:
+            - Fred Smith,jgrj
+            - Becka Smith,jqrj
+      Visibility:
+        leaders:
+          - Brynn Smith,jfjjk
+        teams:
+          Yo:
+            - Flo Smith,jfdkjl
+  Platform:
+    leaders:
+      - Gary Smith,fdjlk
+    teamgroups:
+      Delivery Pipeline:
+        leaders:
+          - Fluffy Smith,jfdj
+        teams:
+          Team Sloth:
+            - Damon Smith,jdsj
+  Enabling:
+    leaders:
+      - Jim Smith,jlkdfs
+    teamgroups:
+      Architecture:
+        leaders:
+        teams:
+      UX:
+        leaders:
+          - Matt Smith,jlfdlk
+        teams:
