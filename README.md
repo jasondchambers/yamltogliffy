@@ -78,8 +78,7 @@ The following will use the embedded sample org.yml contained in the Docker image
 
     $ docker run yamltogliffy > mydiagram.gliffy
 
-This by default uses the example org.yml contained within and produces a Gliffy file resembling 
-this:
+Upon importing the output (mydiagram.gliffy) into Gliffy, you should see something like this:
 
 ![example.png](example.png)
 
