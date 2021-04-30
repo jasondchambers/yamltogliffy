@@ -92,4 +92,5 @@ Typically though, you would pass in the org.yml from outside the container as fo
 How to load into Gliffy    
 -----------------------
 
-Simply import the generated .gliffy file into [Gliffy](https://www.gliffy.com). 
+Simply import the generated .gliffy file into [Gliffy](https://www.gliffy.com). Alternatively, 
+you might want to look at automating this step using [yamltopng](https://github.com/yzxbmlf/yamltopng).
